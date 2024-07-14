@@ -1,0 +1,7 @@
+kivy
+threading
+time
+socket
+json
+secrets
+struct
